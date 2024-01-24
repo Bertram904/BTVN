@@ -1,0 +1,49 @@
+* Vòng đời phát triển phần mềm:
+1. Analysis:
+        - Thu thập và xác định rõ các yêu cầu của người dùng.
+        - Nghiên cứu thị trường để xác định các chức năng để phục vụ cho người dùng tốt hơn.
+        - Sau đó tổng hợp thành 1 tài liệu bao gồm:
+            + Các yêu cầu về chức năng, giao diện, hiệu suất,… 
+            + nhiệm vụ của từng developer và các thông số thử nghiệm để tạo nên một sản phẩm chất lượng.
+2. Design:
+        - Các nhà phát triển phần mềm sẽ vạch ra kiến trúc tổng thể cần thiết để tạo ra phần mềm.
+        - Ngoài ra, các yếu tố như: ngân sách, thời gian, công nghệ áp dụng, mức độ rủi ro,… cũng được xác định rõ ràng.
+        - Kết quả cuối cùng của giai đoạn này là các đặc điểm kỹ thuật thiết kế. Nó bao gồm các chỉ định về thiết kế kiến trúc, yêu cầu hệ thống cũng như đại diện Back-end, Front-end,…
+3. Development:
+        - Bắt đầu viết code và triển khai các thông số thiết kế đã đưa ra ở bước 2.
+        - Sau đó developers sẽ deploy sản phẩm trong môi trường phát triển.
+4. Testing:
+        - Các tester sẽ tạo ra các tình huống kiểm thử và tiến hành kiểm thử phần mềm.
+        - Tester sẽ cập nhật các lỗi vào công cụ quản lý và thông báo các bug cho developers.
+5. Deployment:
+        - Sau khi hoàn tất kiểm thử, phần mềm không còn lỗi, các nhà phát triển sẽ triển khai sản phẩm trên Production environment.
+6. Maintenance:
+        - Quản lý và giải quyết tất cả các vấn để của người dùng gặp phải.
+        - Phần mềm được cập nhật sau khi triển khai để loại bỏ các lỗi và cải thiện hiệu suất.
+        
+* Agile
+làm sao để thích ứng nhanh chóng với sự thay đổi or phản hồi
+
+- 4 tuyên ngôn và 12 nguyên tắc
+
+Chiếc ô Agile
+
+1. 4 tuyên ngôn
+
+- cá nhân và sự tương tác lớn hơn quy trình công cụ (đề cao tính linh hoạt sáng tạo)
+
+VD: team java có oanh, toàn, đại code project sự tương tác giữa mọi người sẽ rút ra những thứ tốt hơ giải quyết vấn đề đang gặp phải
+- sự tương tác giữa gia linh
+quy trình phải đúng phải làm như này
+- phần mềm chayj tốt hơn, tài liệu đầy đủ
+--> nêu cao chất lượng sản phẩm, wtf yêu cầu tài liệu đẹp
+
+- cộng tác với khách hàng > đàm phán hợp đồng
+
+thay vì cho hợp đồng cụ thể, khách hàng được join vào team agile để được làm việc cùng, trong quá trình làm khách hàng đóng vai trò thành viên và xem sản phẩm sẽ hoàn thiện theo thời gian sớm --> nhìn ra được các vấn đề của sản phẩm sớm hơn feedback lại cần sửa thêm điều gì
+
+- phản hồi với sự thay đổi > bám vào kế hoạch
+
+sau khi làm xong login chuyển sang màn home > product detail
+
+
